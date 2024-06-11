@@ -1,4 +1,4 @@
-# ESP-PC Server Interaction
+# Private Eye Walkthrough
 
 ## Setup
 
